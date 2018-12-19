@@ -1,0 +1,3 @@
+SimulationName,Seed,SeedInf,NumDays,VaccineFile,OutputPath,ReportFile,DiseaseRates,LocationFile,TrajectoryFile,BirthsFile,ForceOfImportationFile,ForceOfLocalImportationFile,InitialFoiFile,HumanImmunityDays,EmergenceFactor,MosquitoInfectiousness,MosquitoMoveProbability,MosquitoRatesFile,AttractivenessShape
+sim_0,4494527,4494527,5475,vaccine_settings.txt,.,reporting.txt,disease_rates.csv,Locations20160720.csv,trajectories_31_20161101.txt,birthdeath_31.csv,daily_foi.csv,daily_residents_foi.csv,initial_foi_iquitos.csv,360,1,1,0.3,AegyptiPars_1.35_offset.csv,-1
+
